@@ -35,7 +35,11 @@
 
    
   <div>
-  
+   <br>
+  <a href="https://www.instagram.com/mayaratalyta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+   </a>
+ 	<a href = "mailto:mayaratlt23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+   </a>
   <a href="https://www.linkedin.com/in/mayaraalmeida24/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a>
     
@@ -50,5 +54,6 @@
 
 </p>
 
- ![Snake animation](https://github.com/mayaratlt23/mayaratlt23/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/mayaratlt/mayaratlt/blob/output/github-contribution-grid-snake.svg)
   
+
