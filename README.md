@@ -4,6 +4,7 @@
 
 - 🌱 Desenvolvedora Front-End formada pela Generation Brasil
 - 😄 Pronomes: Ela/dela
+- Git antigo mayaratlt
 
   
  
