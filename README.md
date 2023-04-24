@@ -3,7 +3,6 @@
 
 
 - 🌱 Desenvolvedora Front-End formada pela Generation Brasil
-- 😄 Pronomes: Ela/dela
 - 👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas  
 - 💻 Em busca da primeira oportunidade em tecnologia 
 
