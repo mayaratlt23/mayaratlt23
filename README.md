@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Desenvolvedora Front-End formada pela Generation Brasil
+- 🌱 Ex aluna do bootcamp da Generation Brasil
 - 👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas  
 - 💻 Em busca da primeira oportunidade em tecnologia 
 
