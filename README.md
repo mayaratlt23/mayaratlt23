@@ -1,4 +1,4 @@
-### Olá! Eu sou a Mayara Talita, seja bem vinde ao meu perfil!
+### Olá, seja bem vindo ao meu perfil!
 
 
 
