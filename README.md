@@ -47,7 +47,7 @@
   
    ## Total de visitas no meu perfil :sunflower: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/mayaratlt23/count.svg" />
+   <img alingn="center" src="https://imgur.com/gallery/borboleta-hu6xKDo#RfKtbgU" />
  </p>
 
 </p>
