@@ -3,8 +3,8 @@
 
 
 - 🌱 Ex aluna do bootcamp da Generation Brasil
-- 👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas  
-- 💻 Em busca da primeira oportunidade em tecnologia 
+- 👩‍🎓 Pós graduação em Front-end Engineering 
+- 💻 Em busca da primeira oportunidade na área de tecnologia 
 
 
   
