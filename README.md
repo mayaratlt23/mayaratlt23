@@ -45,12 +45,12 @@
  
   </div><br/>
   
-   ## Total de visitas no meu perfil :sunflower: <br>
- <p align="center"> 
-   <img alingn="center" src="https://imgur.com/gallery/borboleta-hu6xKDo#RfKtbgU" />
- </p>
+   
 
-</p>
+   <img alingn="center" src="https://imgur.com/gallery/borboleta-hu6xKDo#RfKtbgU" />
+
+
+
 
  ![Snake animation](https://github.com/mayaratlt/mayaratlt/blob/output/github-contribution-grid-snake.svg)
   
