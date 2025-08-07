@@ -1,7 +1,7 @@
 <!-- Título animado -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tangerine&weight=500&size=38&pause=1000&color=D14CE8&random=true&width=510&lines=Ol%C3%A1%2C+seja+bem+vindo!)](https://git.io/typing-svg)
 
-- :books: Pós graduação Front-end Engineering
+
 - 💻 Em busca da **primeira oportunidade na área de tecnologia**
 - ✨ Apaixonada por desenvolvimento web e interfaces criativas
 
