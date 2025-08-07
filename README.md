@@ -1,7 +1,7 @@
 <!-- Título animado -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tangerine&weight=500&size=38&pause=1000&color=D14CE8&random=true&width=510&lines=Ol%C3%A1%2C+seja+bem+vindo!)](https://git.io/typing-svg)
 
-
+- 👩🏻‍🎓 Formada em Análise e Desenvolvimento de Sistemas
 - 💻 Em busca da **primeira oportunidade na área de tecnologia**
 - ✨ Apaixonada por desenvolvimento web e interfaces criativas
 
@@ -20,11 +20,11 @@
 </br>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayaratlt23&theme=jolly" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayaratlt23&theme=jolly" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayaratlt23&theme=jolly&utcOffset=8" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayaratlt23&theme=jolly" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayaratlt23&theme=jolly" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayaratlt23&theme=jolly" />
 </div>
 
 
@@ -34,6 +34,7 @@
 <a href="https://www.linkedin.com/in/mayaraalmeida24/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 
 
 
